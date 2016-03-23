@@ -1,1 +1,7 @@
 c:\users\maxeem23\documents\visual studio 2013\Projects\academy\academy\bin\Debug\academy.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\academy\academy\academy\bin\Debug\academy.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\academy\academy\academy\obj\Debug\academy.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\academy\academy\academy\bin\Debug\academy.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\academy\academy\academy\bin\Debug\academy.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\academy\academy\academy\obj\Debug\academy.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\academy\academy\academy\obj\Debug\academy.pdb
